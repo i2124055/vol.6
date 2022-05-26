@@ -1,0 +1,11 @@
+.large{font-size: 80px; text-align: center;}
+img{max-width: 640;margin:0 auto;display: block;}
+.animate__animated {
+    --animate-duration: 2s;
+  }
+  
+  /* This changes all the animations globally */
+  :root {
+    --animate-duration: 800ms;
+    --animate-delay: 0.9s;
+  }
